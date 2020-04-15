@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myblog/tag/no-one-is-perfect/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>A Liberal AF Christian&#039;s View of the World</description>
-	<lastBuildDate>Tue, 14 Apr 2020 16:20:54 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Apr 2020 00:52:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,6 @@
 	<item>
 		<title>Mossy Rock Collecting Dirt</title>
 		<link>/2020/04/14/mossy-rock-collecting-dirt/</link>
-					<comments>/2020/04/14/mossy-rock-collecting-dirt/#respond</comments>
 		
 		<dc:creator><![CDATA[mdrez]]></dc:creator>
 		<pubDate>Tue, 14 Apr 2020 04:00:15 +0000</pubDate>
@@ -84,8 +83,6 @@
 <p>I&#8217;m hoping this blog can provide a spot for me to share my journey and struggles, my beliefs and my questions.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2020/04/14/mossy-rock-collecting-dirt/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
