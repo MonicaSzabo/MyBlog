@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myblog/tag/homosexuality/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Liberal + Christian Blog</description>
-	<lastBuildDate>Sun, 19 Apr 2020 21:17:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Apr 2020 17:11:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4</generator>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
 	<item>
 		<title>Coming Out Christian</title>
 		<link>/2020/04/15/coming-out-christian/</link>
