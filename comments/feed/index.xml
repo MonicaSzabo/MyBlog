@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myblog/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Liberal + Christian Blog</description>
-	<lastBuildDate>Thu, 23 Jul 2020 02:15:40 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Nov 2020 21:26:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 </channel>
 </rss>

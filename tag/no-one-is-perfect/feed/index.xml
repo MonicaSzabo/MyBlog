@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myblog/tag/no-one-is-perfect/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Liberal + Christian Blog</description>
-	<lastBuildDate>Wed, 15 Apr 2020 00:52:01 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Nov 2020 21:17:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 	<item>
 		<title>Mossy Rock Collecting Dirt</title>
 		<link>/2020/04/14/mossy-rock-collecting-dirt/</link>
@@ -52,7 +52,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="/wp-content/uploads/2020/04/aboutme.jpg" alt="" class="wp-image-82" width="497" height="497" srcset="/wp-content/uploads/2020/04/aboutme.jpg 600w, /wp-content/uploads/2020/04/aboutme-300x300.jpg 300w, /wp-content/uploads/2020/04/aboutme-150x150.jpg 150w" sizes="(max-width: 497px) 100vw, 497px" /><figcaption><em>Simon is a very good boy&#8230; why is this caption not center aligned? I don&#8217;t know, probably because WordPress knows it will drive me crazy.</em></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/04/aboutme.jpg" alt="" class="wp-image-82" width="497" height="497" srcset="/wp-content/uploads/2020/04/aboutme.jpg 600w, /wp-content/uploads/2020/04/aboutme-300x300.jpg 300w, /wp-content/uploads/2020/04/aboutme-150x150.jpg 150w" sizes="(max-width: 497px) 100vw, 497px" /><figcaption><em>Simon is a very good boy&#8230; why is this caption not center aligned? I don&#8217;t know, probably because WordPress knows it will drive me crazy.</em></figcaption></figure></div>
 
 
 
